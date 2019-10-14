@@ -1,5 +1,6 @@
 # Synergy
 ==============
+
 Synergy scripts and valuable info from the ES&A team
 
 The major changes are:
